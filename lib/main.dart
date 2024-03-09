@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Columns; Khrulenko Vladislav'),
+          title: Text('Columns; Yasya Petrishina'),
           centerTitle: true,
           backgroundColor: Colors.purple,
         ),
